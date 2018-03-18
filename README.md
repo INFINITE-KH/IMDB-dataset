@@ -1,6 +1,15 @@
 Naughty Solution Casper Emde Christensen, Ali Khazendar, Stephan Pedersen, Nicklas Vikke (JEFF)
 
+----------------------------------------------------------------------------------------------------------------------------
+
 Assignment 5 - Bloody Television
+
+Import:
+- import csv
+- import webget
+- import gzip
+- import shutil
+- from collections import Counter
 
 Dataset for Python:
 
