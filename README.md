@@ -15,6 +15,16 @@ Dataset for Python:
 
 http://www.imdb.com/interfaces/ (title.basics.tsv.gz) Direct link: https://datasets.imdbws.com/title.basics.tsv.gz
 
+Run the code:
+Clone github repo: https://github.com/jeff25n/PythonAssignment5
+
+Start git bash and open Jupyter notebook
+
+Select IMDB-data-spg.-5.ipynb, Question 3 .ipynb, VIRKER-FUCKING.ipynb
+
+Run every code-block (ctrl + enter)
+
+
 Q1: Which year was the most movies released?
 
 Most common releasedates for movies:
